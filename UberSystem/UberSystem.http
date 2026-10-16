@@ -1,0 +1,6 @@
+@UberSystem_HostAddress = http://localhost:5185
+
+GET {{UberSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
